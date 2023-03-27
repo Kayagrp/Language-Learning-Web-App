@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "192.168.1.81",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "test",
+            "database": "db",
+            "username": "kkuser",
+            "password": "12345"
+        }
+    ]
+}

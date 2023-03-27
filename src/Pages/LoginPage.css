@@ -1,0 +1,13 @@
+#login{
+        background-image:url("https://cdn.discordapp.com/attachments/1032330999046098999/1056171473359880202/loginbg.png");
+        height: auto;
+        left: 0;
+        margin: 0;
+        min-height: 100%;
+        min-width: 674px;
+        padding: 0;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: -1;
+}
